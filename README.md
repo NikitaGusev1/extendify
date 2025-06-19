@@ -56,6 +56,3 @@ A simple macOS script to add the currently playing Spotify track to a chosen pla
 MIT License © Nikita Gusev
 
 ---
-
-```
-```
