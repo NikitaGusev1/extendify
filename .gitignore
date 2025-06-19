@@ -1,0 +1,12 @@
+# Secret configuration
+.env
+
+# Spotify auth cache
+.cache
+
+# Python environment
+venv/
+__pycache__/
+
+# Logs or debug output
+*.log
